@@ -2,7 +2,7 @@
 <h1 align="left"> Hello World! I'm latifa </h1>
 
 <p align="left">
-   <a href="www.linkedin.com/in/latifa-el-zeny-8bb321301"><img alt="LinkedIn" src="https://img.shields.io/badge/-latifa el zeny-black?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/latifa-el-zeny-8bb321301/"></a>
+   <a href="https://www.linkedin.com/in/latifa-el-zeny-8bb321301"><img alt="LinkedIn" src="https://img.shields.io/badge/-latifa el zeny-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/latifa-el-zeny-8bb321301/"></a>
    <a href="mailto:latifaalzaini0n@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-latifaalzaini0@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:latifaalzaini0@gmail.com"></a>
 </p>
 
