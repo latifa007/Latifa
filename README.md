@@ -11,7 +11,7 @@
 ---
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
-<img align="right" height="150" width="210" src="[data.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jaydeep.pipaliya%2Flaugh-out-loud-25-computer-science-concepts-made-fun-1c130bfaf57a&psig=AOvVaw129_KgZiDmF4RXcGpBPa0r&ust=1755972570600000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOilsdyBn48DFQAAAAAdAAAAABAX)">
+<img align="right" height="150" width="210" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ii-gY4avnTCGLL5-BNcGhQ.gif">
 
 - 🎓 Computer Science student, future Master's in **AI & Machine Learning**  
 - 🌱 Currently learning: **Python**, **C#**, **React**, **HTML/CSS**  
